@@ -58,3 +58,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 •	撰写行业研究报告并在学校平台发布。
 
 •	组织多场金融投资分享讲座，促进社团成员之间的知识交流和技能提升。
+
+## <font color=9FB6CD>实习经历</font>
+#### 中安鼎盛 量化研究员         &emsp;&emsp;                           深圳   &emsp;&emsp; 2024.4-至今
+•	开发量化策略
