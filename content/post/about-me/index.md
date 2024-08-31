@@ -30,7 +30,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 •	**软件应用**：精通使用Office三件套, Wind, ChatGPT, Google, github, git等工具
 
 ## <font color=9FB6CD>项目经历</font>
-#### Worldquant全球量化比赛—全球前5%       &emsp;&emsp;               2024.4-2024.6
+#### Worldquant全球量化比赛--金牌       &emsp;&emsp;                        2024.4-2024.6
 •	荣获因子优秀奖。
 
 •	基于国内外大量文献和研究报告，成功代码复现并优化了多个Alpha因子
@@ -50,15 +50,21 @@ weight: 1       # You can add weight to some posts to override the default sorti
 •	收集各地区青少年身高体重的数据并进行整理和分析。
 
 •	搭建回归模型预测不同地区的理想身高体重区间，并完成高质量的汇报论文。
-#### 大学生创新创业大赛—总冠军              &emsp;&emsp;                             2021.2-2021.2
+#### 大学生创新创业大赛--总冠军              &emsp;&emsp;                             2021.2-2021.2
 •	对中学生学业辅导市场进行深度解读，发现体育科目细分赛道存在空白，进行深度调研后基于团队技术壁垒和需求痛点进行# App设计和初步实现。
 
 •	撰写商业计划书，并进行产品路演，赢得了天使投资人的高度评价。
-#### IEA经济投资协会—社长            &emsp;&emsp;                                       2024.4-至今
+#### IEA经济投资协会--学术部部长            &emsp;&emsp;                                  2024.8-至今
 •	撰写行业研究报告并在学校平台发布。
 
 •	组织多场金融投资分享讲座，促进社团成员之间的知识交流和技能提升。
 
+•	组织投资系列课程。
+
 ## <font color=9FB6CD>实习经历</font>
-#### 中安鼎盛 量化研究员         &emsp;&emsp;                           深圳   &emsp;&emsp; 2024.4-至今
-•	开发量化策略
+#### 中安鼎盛 量化研究员         &emsp;&emsp;                           深圳   &emsp;&emsp; 2024.7-2024.8
+•	深入研读国内外大量研报，成功代码复现并优化检验了诸多因子。
+
+•	成功代码复现Barra模型，包括复现了多个Barra因子，以及实现了用Barra模型做因子自相关检验的代码。
+
+•	基于公司api接口成功完善并优化了股票回测框架。
