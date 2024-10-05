@@ -1,6 +1,6 @@
 ---
-title: About me
-description: This is my CV
+title: Lambert.eth
+description: Web3
 slug: about-me
 date:
 image: cover.jpg
@@ -8,7 +8,7 @@ categories:
 tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
-## <font color=9FB6CD>关于我</font>
+## <font color=9FB6CD>Lambert.eth</font>
 
 **LambertLin0511@outlook.com**
 
