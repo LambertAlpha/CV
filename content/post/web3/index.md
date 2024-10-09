@@ -1,9 +1,9 @@
 ---
 title: Lambert.eth
-description: Web3
-slug: about-me
+description: My tour in Web3
+slug: 
 date:
-image: cover.jpg
+image: Dogecoin.webp
 categories:
 tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
@@ -15,6 +15,10 @@ weight: 1       # You can add weight to some posts to override the default sorti
 [**Github**](https://github.com/LambertAlpha)
 
 [**X(Twitter)**](https://x.com/lnby669438)
+
+[**Telegram**](https://x.com/lnby669438)
+
+[**Discord**](https://x.com/lnby669438)
 
 [**Linkedin**]
 
@@ -35,42 +39,9 @@ weight: 1       # You can add weight to some posts to override the default sorti
 #### 自研量化投资策略           &emsp;&emsp;                                  2024.9-至今
 •	运用backtrader框架开发量化策略，运用布林带、EMA均线、KDJ等指标，做短线交易，实现稳定波段收益率6%左右，最大回撤不超过3%，目前盈利（）。
 
-#### Worldquant全球量化比赛--金牌       &emsp;&emsp;                        2024.4-2024.6
-•	荣获因子优秀奖。
-
-•	基于国内外大量文献和研究报告，成功代码复现并优化了多个Alpha因子
-
-•	引入基于STR的排名分数作为信号指标，成功将因子夏普率从1.15提升至2.87，以及实现年收益率19.8%、回撤5.69%。
-
-#### 数字孪生科研                    &emsp;&emsp;                                     2024.6-至今
-•	在黄教授的指导下，对数字孪生技术进行深入研究，查阅并整理了大量基础资料和文献，理解其基础框架流程。
-
-•	撰写数字孪生技术研究报告，并进行研究成果的演示汇报。
-
-#### Python游戏开发                    &emsp;&emsp;                              2024.3-2024.5
-•	利用Python的turtle库进行游戏开发，设计直观的GUI交互界面。
-
-•	引入时间监控模块，使用户能够动态控制游戏进程，提升了用户体验。
-
-#### 广东省数学建模比赛--组长 优秀奖            &emsp;&emsp;                           2021.5-2021.5
-•	协调分工和制定项目框架。
-
-•	收集各地区青少年身高体重的数据并进行整理和分析。
-
-•	搭建回归模型预测不同地区的理想身高体重区间，并完成高质量的汇报论文。
-
-#### 大学生创新创业大赛--总冠军              &emsp;&emsp;                             2021.2-2021.2
-•	对中学生学业辅导市场进行深度解读，发现体育科目细分赛道存在空白，进行深度调研后基于团队技术壁垒和需求痛点进行 App设计和初步实现。
-
-•	撰写商业计划书，并进行产品路演，赢得了天使投资人的高度评价。
-
-#### IEA经济投资协会--学术部部长            &emsp;&emsp;                                  2024.8-至今
-•	撰写行业研究报告并在学校平台发布。
-
-•	组织多场金融投资分享讲座，促进社团成员之间的知识交流和技能提升。
-
-•	组织筹办IES1001投资启蒙系列课程，为校内同学分享A股的题材选择、基本面和技术面等内容，单场讲座人数超170人，获得了特别好的反馈。
-
+#### Galxe调研           &emsp;&emsp;                                  2024.9-至今
+•	调研Galxe项目
+     
 
 ## <font color=9FB6CD>实习经历</font>
 #### 中安鼎盛 量化研究员         &emsp;&emsp;                           深圳   &emsp;&emsp; 2024.7-2024.8
